@@ -10,6 +10,3 @@ I am a computer engineering student at Kocaeli University.
 ![Meleknaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=meleknaz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meleknaz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-:twiter:
-
-![Twiter](http://i.imgur.com/tXSoThF.png])(https://twitter.com/Meleknazablak)
